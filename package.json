@@ -1,0 +1,11 @@
+{
+    "name": "com.mackysoft.serializereferenceextensions",
+    "version": "1.0.0",
+    "displayName": "Serialize Reference Extensions",
+    "description": "Extensions for Unity's SerializeReference attribute.",
+    "unity": "2019.1",
+    "author": {
+      "name": "Mackysoft",
+      "url": "https://github.com/mackysoft"
+    }
+  }
